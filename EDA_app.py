@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-pip install seaborn
 import streamlit as st
 import pandas as pd
 import seaborn as sns
